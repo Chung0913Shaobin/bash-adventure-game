@@ -5,6 +5,15 @@
 
 ---
 
+## 🖥️ 系統需求
+- 建議環境：Linux / macOS  
+- Windows 使用者可透過以下方式執行：
+  - **WSL (Windows Subsystem for Linux)**
+  - **Git Bash**
+  - 或其他能執行 Bash 的終端機
+
+---
+
 ## 🎮 遊戲玩法
 
 1. 下載或 clone 這個專案：
